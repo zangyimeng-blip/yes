@@ -1,3 +1,4 @@
+import streamlist as st
 while True:
     name=input("你是谁？请报上大名！")
 
