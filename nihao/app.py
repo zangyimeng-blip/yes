@@ -3,7 +3,7 @@ import streamlit as st
 st.title("你是谁？")
 name = st.text_input("报上你的大名！")
 
-if name: 
+if name:
     if name == "陈建图":
         st.success("嘿嘿姐姐你好呀😁")
     elif name == "韩仕赢":
@@ -13,7 +13,7 @@ if name:
     elif name == "梅源":
         st.success("妈妈妈妈妈妈妈妈我特别想你")
     elif name == "臧国娇":
-        st.success("你好呀👋姑姑")
+        st.success("你好呀姑姑")
     elif name == "卞艺凝":
         st.success("你是我的好朋友卞卡！")
     elif name == "金佳莹":
