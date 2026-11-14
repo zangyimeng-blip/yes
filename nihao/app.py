@@ -24,7 +24,7 @@ if name:
         st.success("嗨！奶奶你好！")
     elif name == "唐馨怡":
         st.success("呦呦呦重庆妹子来了")
-    elif name == "臧一萌"
+    elif name == "臧一萌":
         st.success("嘿嘿嘿正是我本人")
     else:
         st.error("你到底是谁？！我不认识你！！！")
